@@ -53,5 +53,5 @@ The code for the autocompletion form.
 Oakland International Airport has a total of 1 incident in the dataset. 
 
 ## Additional Work
-In order to keep the map up to date, someone will need to scrape 
+In order to keep the map up to date, someone will need to scrape the incidents data from the API again, clean it, and re-run the scripts and queries so that the data files are populated correctly.
 

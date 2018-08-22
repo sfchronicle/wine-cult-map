@@ -1,0 +1,1141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.268463,
+                            39.337199,
+                            0
+                        ],
+                        [
+                            -121.268146,
+                            39.336657,
+                            0
+                        ],
+                        [
+                            -121.267674,
+                            39.336898,
+                            0
+                        ],
+                        [
+                            -121.267717,
+                            39.337484,
+                            0
+                        ],
+                        [
+                            -121.267245,
+                            39.337467,
+                            0
+                        ],
+                        [
+                            -121.267052,
+                            39.337584,
+                            0
+                        ],
+                        [
+                            -121.267202,
+                            39.338144,
+                            0
+                        ],
+                        [
+                            -121.266778,
+                            39.338334,
+                            0
+                        ],
+                        [
+                            -121.267417,
+                            39.339123,
+                            0
+                        ],
+                        [
+                            -121.268538,
+                            39.340019,
+                            0
+                        ],
+                        [
+                            -121.269386,
+                            39.339808,
+                            0
+                        ],
+                        [
+                            -121.268951,
+                            39.339095,
+                            0
+                        ],
+                        [
+                            -121.268919,
+                            39.33875,
+                            0
+                        ],
+                        [
+                            -121.268828,
+                            39.33858,
+                            0
+                        ],
+                        [
+                            -121.268592,
+                            39.338539,
+                            0
+                        ],
+                        [
+                            -121.268468,
+                            39.337589,
+                            0
+                        ],
+                        [
+                            -121.268463,
+                            39.337199,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Clos Saron",
+                "styleUrl": "#poly-C2185B-1000-235",
+                "styleHash": "f2efb67",
+                "styleMapHash": {
+                    "normal": "#poly-C2185B-1000-235-normal",
+                    "highlight": "#poly-C2185B-1000-235-highlight"
+                },
+                "description": "<img src=\"https://lh3.googleusercontent.com/l67j-jkvRqR38vtT9nOk1zeFJFnFQ69tm73fLWwsA_KwgKm9rDuMhpF6oxDEb5LutHBwYYXf7sbvkVFfrGK9rsUdobQN3FyC4wpo_Ks4EH4QRwBXboZ8wJy4LuQTA28\"/>Gideon Beinstock and Saron Rice's winery, Clos Saron, plus the Home Vineyard, which they grafted to Pinot Noir in 1995. White Field, a newer block planted in 2012, has Sauvignon Blanc, Roussanne, Viognier, Petit Manseng, Riesling, Syrah, Trousseau, Mondeuse and Cinsault in addition to Pinot.",
+                "stroke": "#c2185b",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#c2185b",
+                "fill-opacity": 0.9215686274509803,
+                "gx_media_links": "https://lh3.googleusercontent.com/l67j-jkvRqR38vtT9nOk1zeFJFnFQ69tm73fLWwsA_KwgKm9rDuMhpF6oxDEb5LutHBwYYXf7sbvkVFfrGK9rsUdobQN3FyC4wpo_Ks4EH4QRwBXboZ8wJy4LuQTA28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.255438,
+                            39.340421,
+                            0
+                        ],
+                        [
+                            -121.255025,
+                            39.340188,
+                            0
+                        ],
+                        [
+                            -121.254408,
+                            39.33996,
+                            0
+                        ],
+                        [
+                            -121.2537,
+                            39.339441,
+                            0
+                        ],
+                        [
+                            -121.253287,
+                            39.338802,
+                            0
+                        ],
+                        [
+                            -121.253062,
+                            39.338807,
+                            0
+                        ],
+                        [
+                            -121.252375,
+                            39.338271,
+                            0
+                        ],
+                        [
+                            -121.252096,
+                            39.338284,
+                            0
+                        ],
+                        [
+                            -121.251581,
+                            39.338811,
+                            0
+                        ],
+                        [
+                            -121.251425,
+                            39.339118,
+                            0
+                        ],
+                        [
+                            -121.251479,
+                            39.339612,
+                            0
+                        ],
+                        [
+                            -121.252026,
+                            39.340064,
+                            0
+                        ],
+                        [
+                            -121.252767,
+                            39.340093,
+                            0
+                        ],
+                        [
+                            -121.253062,
+                            39.340271,
+                            0
+                        ],
+                        [
+                            -121.253432,
+                            39.340441,
+                            0
+                        ],
+                        [
+                            -121.253872,
+                            39.340474,
+                            0
+                        ],
+                        [
+                            -121.254043,
+                            39.340545,
+                            0
+                        ],
+                        [
+                            -121.254279,
+                            39.340935,
+                            0
+                        ],
+                        [
+                            -121.254542,
+                            39.341126,
+                            0
+                        ],
+                        [
+                            -121.254794,
+                            39.341064,
+                            0
+                        ],
+                        [
+                            -121.255438,
+                            39.340421,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 23 ",
+                "styleUrl": "#poly-FFD600-1401-222",
+                "styleHash": "4d07138e",
+                "styleMapHash": {
+                    "normal": "#poly-FFD600-1401-222-normal",
+                    "highlight": "#poly-FFD600-1401-222-highlight"
+                },
+                "description": "This lower section of the Renaissance vineyard was all Sauvignon Blanc at first, but now has some Semillon and Roussanne too. Dani Rozman farms this block. Frenchtown Farms uses the Roussanne in a cofermentation with Slope 19 Syrah for its 19 Harts cuvee.",
+                "stroke": "#ffd600",
+                "stroke-opacity": 1,
+                "stroke-width": 1.401,
+                "fill": "#ffd600",
+                "fill-opacity": 0.8705882352941177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.241893,
+                            39.332724,
+                            0
+                        ],
+                        [
+                            -121.24251,
+                            39.332749,
+                            0
+                        ],
+                        [
+                            -121.242858,
+                            39.332662,
+                            0
+                        ],
+                        [
+                            -121.242976,
+                            39.332463,
+                            0
+                        ],
+                        [
+                            -121.243556,
+                            39.332566,
+                            0
+                        ],
+                        [
+                            -121.244226,
+                            39.331973,
+                            0
+                        ],
+                        [
+                            -121.244398,
+                            39.331749,
+                            0
+                        ],
+                        [
+                            -121.244366,
+                            39.331562,
+                            0
+                        ],
+                        [
+                            -121.244194,
+                            39.331392,
+                            0
+                        ],
+                        [
+                            -121.243636,
+                            39.331185,
+                            0
+                        ],
+                        [
+                            -121.243223,
+                            39.331118,
+                            0
+                        ],
+                        [
+                            -121.242671,
+                            39.331247,
+                            0
+                        ],
+                        [
+                            -121.242032,
+                            39.331483,
+                            0
+                        ],
+                        [
+                            -121.241389,
+                            39.33172,
+                            0
+                        ],
+                        [
+                            -121.241356,
+                            39.331998,
+                            0
+                        ],
+                        [
+                            -121.241405,
+                            39.332251,
+                            0
+                        ],
+                        [
+                            -121.241625,
+                            39.332276,
+                            0
+                        ],
+                        [
+                            -121.241807,
+                            39.332388,
+                            0
+                        ],
+                        [
+                            -121.241898,
+                            39.332496,
+                            0
+                        ],
+                        [
+                            -121.241893,
+                            39.332724,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 1 ",
+                "styleUrl": "#poly-A52714-1000-230",
+                "styleHash": "-4e1b5c95",
+                "styleMapHash": {
+                    "normal": "#poly-A52714-1000-230-normal",
+                    "highlight": "#poly-A52714-1000-230-highlight"
+                },
+                "description": "<img src=\"https://lh3.googleusercontent.com/QnUMLtaw3R-M5kCpxEWqcXCCO7UWqr8s2k0hcG-oKgzM1m2XZUXDtjPHGYx96iSiE7S9lmXdX0MRnhMO4f60SUfvKdyDKUysJFbAcVjUTA_-ymNWe8zXDv1JD7Rldnuo\"/>The first section of vineyards ever planted at Renaissance, in 1976, has Cabernet Sauvignon planted on its own roots. Once the source of Renaissance's Vin de Terroir wine, it now goes into Frenchtown Farms’ Indigeaux blend, La Onda’s Blanco de Tinto and Clos Saron’s Black Pearl.",
+                "stroke": "#a52714",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#a52714",
+                "fill-opacity": 0.9019607843137255,
+                "gx_media_links": "https://lh3.googleusercontent.com/QnUMLtaw3R-M5kCpxEWqcXCCO7UWqr8s2k0hcG-oKgzM1m2XZUXDtjPHGYx96iSiE7S9lmXdX0MRnhMO4f60SUfvKdyDKUysJFbAcVjUTA_-ymNWe8zXDv1JD7Rldnuo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.23603,
+                            39.335188,
+                            0
+                        ],
+                        [
+                            -121.23611,
+                            39.335171,
+                            0
+                        ],
+                        [
+                            -121.236282,
+                            39.335092,
+                            0
+                        ],
+                        [
+                            -121.236553,
+                            39.334905,
+                            0
+                        ],
+                        [
+                            -121.236649,
+                            39.334791,
+                            0
+                        ],
+                        [
+                            -121.23674,
+                            39.334652,
+                            0
+                        ],
+                        [
+                            -121.237003,
+                            39.3346,
+                            0
+                        ],
+                        [
+                            -121.237448,
+                            39.334507,
+                            0
+                        ],
+                        [
+                            -121.237521,
+                            39.334532,
+                            0
+                        ],
+                        [
+                            -121.237698,
+                            39.334586,
+                            0
+                        ],
+                        [
+                            -121.238014,
+                            39.334718,
+                            0
+                        ],
+                        [
+                            -121.23824,
+                            39.334741,
+                            0
+                        ],
+                        [
+                            -121.238146,
+                            39.334494,
+                            0
+                        ],
+                        [
+                            -121.238036,
+                            39.334335,
+                            0
+                        ],
+                        [
+                            -121.237743,
+                            39.334094,
+                            0
+                        ],
+                        [
+                            -121.237601,
+                            39.333681,
+                            0
+                        ],
+                        [
+                            -121.237218,
+                            39.33366,
+                            0
+                        ],
+                        [
+                            -121.237408,
+                            39.33449,
+                            0
+                        ],
+                        [
+                            -121.236732,
+                            39.334442,
+                            0
+                        ],
+                        [
+                            -121.23666,
+                            39.334513,
+                            0
+                        ],
+                        [
+                            -121.236539,
+                            39.334669,
+                            0
+                        ],
+                        [
+                            -121.236354,
+                            39.334845,
+                            0
+                        ],
+                        [
+                            -121.235965,
+                            39.335102,
+                            0
+                        ],
+                        [
+                            -121.235965,
+                            39.335129,
+                            0
+                        ],
+                        [
+                            -121.23603,
+                            39.335188,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 13/17 North",
+                "styleUrl": "#poly-880E4F-1000-247",
+                "styleHash": "-f87fa1a",
+                "styleMapHash": {
+                    "normal": "#poly-880E4F-1000-247-normal",
+                    "highlight": "#poly-880E4F-1000-247-highlight"
+                },
+                "description": "This rocky, low-yielding block of Renaissance has Grenache and Syrah.",
+                "stroke": "#880e4f",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#880e4f",
+                "fill-opacity": 0.9686274509803922
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.236861,
+                            39.329034,
+                            0
+                        ],
+                        [
+                            -121.237172,
+                            39.328611,
+                            0
+                        ],
+                        [
+                            -121.237194,
+                            39.328022,
+                            0
+                        ],
+                        [
+                            -121.237119,
+                            39.327681,
+                            0
+                        ],
+                        [
+                            -121.236464,
+                            39.3273,
+                            0
+                        ],
+                        [
+                            -121.236078,
+                            39.327308,
+                            0
+                        ],
+                        [
+                            -121.235692,
+                            39.327607,
+                            0
+                        ],
+                        [
+                            -121.236024,
+                            39.327781,
+                            0
+                        ],
+                        [
+                            -121.236056,
+                            39.328329,
+                            0
+                        ],
+                        [
+                            -121.236368,
+                            39.328885,
+                            0
+                        ],
+                        [
+                            -121.236861,
+                            39.329034,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 19A ",
+                "styleUrl": "#poly-880E4F-1000-127",
+                "styleHash": "57fc9a83",
+                "styleMapHash": {
+                    "normal": "#poly-880E4F-1000-127-normal",
+                    "highlight": "#poly-880E4F-1000-127-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/V6CMcnXlDq25uqnC6m7iFFYZ65qACSefluToAZjuoK1oeVZa-1sE89456gqhn3sgaHUlpn5a9SvFxR_uQ0BFQjTrp0vt-yMIpZproOddYWgBmzRmIlo1FMEUUWHPirA\"/>This section of Slope 19 has Merlot in addition to Syrah. ",
+                "stroke": "#880e4f",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#880e4f",
+                "fill-opacity": 0.4980392156862745,
+                "gx_media_links": "https://lh5.googleusercontent.com/V6CMcnXlDq25uqnC6m7iFFYZ65qACSefluToAZjuoK1oeVZa-1sE89456gqhn3sgaHUlpn5a9SvFxR_uQ0BFQjTrp0vt-yMIpZproOddYWgBmzRmIlo1FMEUUWHPirA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.236421,
+                            39.327067,
+                            0
+                        ],
+                        [
+                            -121.23699,
+                            39.325773,
+                            0
+                        ],
+                        [
+                            -121.237483,
+                            39.325117,
+                            0
+                        ],
+                        [
+                            -121.237483,
+                            39.324793,
+                            0
+                        ],
+                        [
+                            -121.236443,
+                            39.324793,
+                            0
+                        ],
+                        [
+                            -121.236207,
+                            39.324959,
+                            0
+                        ],
+                        [
+                            -121.235402,
+                            39.326495,
+                            0
+                        ],
+                        [
+                            -121.234962,
+                            39.326835,
+                            0
+                        ],
+                        [
+                            -121.234351,
+                            39.327955,
+                            0
+                        ],
+                        [
+                            -121.234662,
+                            39.328271,
+                            0
+                        ],
+                        [
+                            -121.235112,
+                            39.328088,
+                            0
+                        ],
+                        [
+                            -121.235305,
+                            39.327781,
+                            0
+                        ],
+                        [
+                            -121.235938,
+                            39.327333,
+                            0
+                        ],
+                        [
+                            -121.236421,
+                            39.327067,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 19 ",
+                "styleUrl": "#poly-880E4F-901-196",
+                "styleHash": "66a727f7",
+                "styleMapHash": {
+                    "normal": "#poly-880E4F-901-196-normal",
+                    "highlight": "#poly-880E4F-901-196-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/7_x_-hwJRhOTVH7KHIF3Oyd3Jq1Uv9BYHZDHRoKG3lEcLeEdn09hewS4VyZ8BNqSUVEp_hkGa4tmjbxQzY8l8skgyEL4T1UFgh4lMN9ZxynRXvHU3jNNzaniY6Uo3WBZ\"/>Originally planted to Riesling, this block -- at nearly 2,300 feet, the highest at Renaissance Vineyard -- was later converted to Syrah.",
+                "stroke": "#880e4f",
+                "stroke-opacity": 1,
+                "stroke-width": 0.901,
+                "fill": "#880e4f",
+                "fill-opacity": 0.7686274509803922,
+                "gx_media_links": "https://lh5.googleusercontent.com/7_x_-hwJRhOTVH7KHIF3Oyd3Jq1Uv9BYHZDHRoKG3lEcLeEdn09hewS4VyZ8BNqSUVEp_hkGa4tmjbxQzY8l8skgyEL4T1UFgh4lMN9ZxynRXvHU3jNNzaniY6Uo3WBZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.233278,
+                            39.326569,
+                            0
+                        ],
+                        [
+                            -121.233557,
+                            39.326196,
+                            0
+                        ],
+                        [
+                            -121.234007,
+                            39.325872,
+                            0
+                        ],
+                        [
+                            -121.233331,
+                            39.32569,
+                            0
+                        ],
+                        [
+                            -121.23272,
+                            39.325623,
+                            0
+                        ],
+                        [
+                            -121.232591,
+                            39.325806,
+                            0
+                        ],
+                        [
+                            -121.23273,
+                            39.326113,
+                            0
+                        ],
+                        [
+                            -121.233278,
+                            39.326569,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Slope 19Z ",
+                "styleUrl": "#poly-CE93D8-1000-127",
+                "styleHash": "1de58e5e",
+                "styleMapHash": {
+                    "normal": "#poly-CE93D8-1000-127-normal",
+                    "highlight": "#poly-CE93D8-1000-127-highlight"
+                },
+                "description": "<img src=\"https://lh4.googleusercontent.com/kRfgujR0m8exsuhCuPoygkmmXhavd_aqMpwsKqhiA3I_-RAP6PDW0L8VkvZKicAfNn6bg7WKutyV22x1z9jfHYmk4zt8ze3gGqOq8L8MGrj02X5uGiZ3FrG3mJyNzpY\"/>When Slope 19 was first planted in 1981, all of the vines were Riesling. Some of those Riesling vines remain, plus some Pinot Noir.",
+                "stroke": "#ce93d8",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#ce93d8",
+                "fill-opacity": 0.4980392156862745,
+                "gx_media_links": "https://lh4.googleusercontent.com/kRfgujR0m8exsuhCuPoygkmmXhavd_aqMpwsKqhiA3I_-RAP6PDW0L8VkvZKicAfNn6bg7WKutyV22x1z9jfHYmk4zt8ze3gGqOq8L8MGrj02X5uGiZ3FrG3mJyNzpY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.238234,
+                            39.32476,
+                            0
+                        ],
+                        [
+                            -121.238363,
+                            39.32443,
+                            0
+                        ],
+                        [
+                            -121.237837,
+                            39.323409,
+                            0
+                        ],
+                        [
+                            -121.236282,
+                            39.323251,
+                            0
+                        ],
+                        [
+                            -121.23611,
+                            39.322942,
+                            0
+                        ],
+                        [
+                            -121.236496,
+                            39.32222,
+                            0
+                        ],
+                        [
+                            -121.237001,
+                            39.321797,
+                            0
+                        ],
+                        [
+                            -121.237333,
+                            39.321473,
+                            0
+                        ],
+                        [
+                            -121.237612,
+                            39.320411,
+                            0
+                        ],
+                        [
+                            -121.238127,
+                            39.319855,
+                            0
+                        ],
+                        [
+                            -121.238653,
+                            39.320137,
+                            0
+                        ],
+                        [
+                            -121.239232,
+                            39.320262,
+                            0
+                        ],
+                        [
+                            -121.240037,
+                            39.320386,
+                            0
+                        ],
+                        [
+                            -121.242193,
+                            39.320104,
+                            0
+                        ],
+                        [
+                            -121.241893,
+                            39.319672,
+                            0
+                        ],
+                        [
+                            -121.24111,
+                            39.319183,
+                            0
+                        ],
+                        [
+                            -121.239779,
+                            39.319432,
+                            0
+                        ],
+                        [
+                            -121.238975,
+                            39.319971,
+                            0
+                        ],
+                        [
+                            -121.238524,
+                            39.31978,
+                            0
+                        ],
+                        [
+                            -121.237902,
+                            39.319523,
+                            0
+                        ],
+                        [
+                            -121.237451,
+                            39.319589,
+                            0
+                        ],
+                        [
+                            -121.237001,
+                            39.319988,
+                            0
+                        ],
+                        [
+                            -121.236378,
+                            39.320336,
+                            0
+                        ],
+                        [
+                            -121.236153,
+                            39.320926,
+                            0
+                        ],
+                        [
+                            -121.235745,
+                            39.321092,
+                            0
+                        ],
+                        [
+                            -121.234147,
+                            39.321482,
+                            0
+                        ],
+                        [
+                            -121.233675,
+                            39.32198,
+                            0
+                        ],
+                        [
+                            -121.232848,
+                            39.322536,
+                            0
+                        ],
+                        [
+                            -121.233535,
+                            39.323814,
+                            0
+                        ],
+                        [
+                            -121.233492,
+                            39.324802,
+                            0
+                        ],
+                        [
+                            -121.238234,
+                            39.32476,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Frenchtown Farms ",
+                "styleUrl": "#poly-F9A825-1000-224",
+                "styleHash": "631f2613",
+                "styleMapHash": {
+                    "normal": "#poly-F9A825-1000-224-normal",
+                    "highlight": "#poly-F9A825-1000-224-highlight"
+                },
+                "description": "<img src=\"https://lh3.googleusercontent.com/tHt0D2wyyAGSC3Aa5s8uUG76sp0oMIWgWedQyolkd67xjAMwacYrVaZ1ujeY9gfS_MNVjNKKKLyUCqj1es6aGHXaETBNfTHQ1RWc_hFU6YaLnjUzkAGmmoKzw6A1awol\"/>Aaron and Cara Mockrish are currently in the process of planting vines on the hillsides between Renaissance's Slope 19 and their home. This wooded area \"will be more like a grape forest\" than a traditional vineyard, Aaron says.",
+                "stroke": "#f9a825",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#f9a825",
+                "fill-opacity": 0.8784313725490196,
+                "gx_media_links": "https://lh3.googleusercontent.com/tHt0D2wyyAGSC3Aa5s8uUG76sp0oMIWgWedQyolkd67xjAMwacYrVaZ1ujeY9gfS_MNVjNKKKLyUCqj1es6aGHXaETBNfTHQ1RWc_hFU6YaLnjUzkAGmmoKzw6A1awol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.241077,
+                            39.320728,
+                            0
+                        ],
+                        [
+                            -121.241196,
+                            39.32111,
+                            0
+                        ],
+                        [
+                            -121.241528,
+                            39.321019,
+                            0
+                        ],
+                        [
+                            -121.241367,
+                            39.320629,
+                            0
+                        ],
+                        [
+                            -121.241077,
+                            39.320728,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Frenchtown Farms Winery",
+                "styleUrl": "#poly-0000FF-1000-127",
+                "styleHash": "-63e4a272",
+                "styleMapHash": {
+                    "normal": "#poly-0000FF-1000-127-normal",
+                    "highlight": "#poly-0000FF-1000-127-highlight"
+                },
+                "description": "<img src=\"https://lh6.googleusercontent.com/2cGV6hMmy_GridCLPQezj1qde14JCHud1YnTVwyCvlkg6a5XDyGL6aQ1vOCpaddcDUvUOm74TXBre0YbanIsXjEjc_FNDFtEBvkEJ52gNQHvNZQyVTWJd4C08FI0e5H4\"/>This year, Aaron and Cara will be making wine at their own home instead of at Clos Saron.",
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#0000ff",
+                "fill-opacity": 0.4980392156862745,
+                "gx_media_links": "https://lh6.googleusercontent.com/2cGV6hMmy_GridCLPQezj1qde14JCHud1YnTVwyCvlkg6a5XDyGL6aQ1vOCpaddcDUvUOm74TXBre0YbanIsXjEjc_FNDFtEBvkEJ52gNQHvNZQyVTWJd4C08FI0e5H4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.264225,
+                            39.320768,
+                            0
+                        ],
+                        [
+                            -121.264043,
+                            39.320411,
+                            0
+                        ],
+                        [
+                            -121.263619,
+                            39.320212,
+                            0
+                        ],
+                        [
+                            -121.263157,
+                            39.320129,
+                            0
+                        ],
+                        [
+                            -121.26268,
+                            39.32022,
+                            0
+                        ],
+                        [
+                            -121.262428,
+                            39.320299,
+                            0
+                        ],
+                        [
+                            -121.262224,
+                            39.320357,
+                            0
+                        ],
+                        [
+                            -121.262165,
+                            39.320453,
+                            0
+                        ],
+                        [
+                            -121.262181,
+                            39.320743,
+                            0
+                        ],
+                        [
+                            -121.264225,
+                            39.320768,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Stone Soup ",
+                "styleUrl": "#poly-880E4F-1000-230",
+                "styleHash": "4e5f782c",
+                "styleMapHash": {
+                    "normal": "#poly-880E4F-1000-230-normal",
+                    "highlight": "#poly-880E4F-1000-230-highlight"
+                },
+                "description": "<img src=\"https://lh5.googleusercontent.com/7HHhZIjAPyr96wWLuZtci1QigJ0J_T9yTNw1bv2v58Jj6uCyBQwHd90c05MSpaNR3LeRCzJQr9PLK_RjAumo3ZM2_2-2lo1dy6IQfhAnU2flKvbintpOKWuv4b5DmbU\"/>This rocky 2-acre parcel was planted in 2003 to Syrah with a little bit of Viognier mixed in. Gideon Beinstock harvests it for Clos Saron, making an edgy, austere wine in the style of Cote-Rotie.",
+                "stroke": "#880e4f",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "fill": "#880e4f",
+                "fill-opacity": 0.9019607843137255,
+                "gx_media_links": "https://lh5.googleusercontent.com/7HHhZIjAPyr96wWLuZtci1QigJ0J_T9yTNw1bv2v58Jj6uCyBQwHd90c05MSpaNR3LeRCzJQr9PLK_RjAumo3ZM2_2-2lo1dy6IQfhAnU2flKvbintpOKWuv4b5DmbU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2428705,
+                    39.3265694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Renaissance Winery",
+                "styleUrl": "#icon-1598-F57C00",
+                "styleHash": "-2b24c9b0",
+                "styleMapHash": {
+                    "normal": "#icon-1598-F57C00-normal",
+                    "highlight": "#icon-1598-F57C00-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "<img src=\"https://lh5.googleusercontent.com/kH3pIXsfeXwhIy1G2AWAxwqRCtMS-iuOsSp51FwZrq_YjObRDN725phpSJ1Jgt7fuIx3otDtwQVBN2VDPGkcWSxBDC7Ijs2A_gEx2PmRffZS3ykQmq_WL1TiCS323JM\"/>The Renaissance Winery stopped producing wines after the 2014 vintage, but still holds all of the unsold wine inventory.",
+                "gx_media_links": "https://lh5.googleusercontent.com/kH3pIXsfeXwhIy1G2AWAxwqRCtMS-iuOsSp51FwZrq_YjObRDN725phpSJ1Jgt7fuIx3otDtwQVBN2VDPGkcWSxBDC7Ijs2A_gEx2PmRffZS3ykQmq_WL1TiCS323JM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.254342,
+                    39.3294886,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Apollo",
+                "styleUrl": "#icon-1583-FFD600",
+                "styleHash": "523b332c",
+                "styleMapHash": {
+                    "normal": "#icon-1583-FFD600-normal",
+                    "highlight": "#icon-1583-FFD600-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "The front gates on Rices Crossing Road announce the entrance to Apollo, the headquarters of the Fellowship of Friends. Founder Robert Earl Burton, now 79, still lives on the property."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2472737,
+                    39.3277746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Amphitheater",
+                "styleUrl": "#icon-1708-0288D1",
+                "styleHash": "-62872865",
+                "styleMapHash": {
+                    "normal": "#icon-1708-0288D1-normal",
+                    "highlight": "#icon-1708-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "<img src=\"https://lh3.googleusercontent.com/alcIQyZeiHsDewBmki3RihaVHcowHruq1hxkw07h4cEzIXF3GFUWr9isS1WfwfUCpVUs86piZ61fTDINdWp5fd1QXox5kzNNSAxxeGrl3uoTsHxxo8PU5iot0uLSYMw\"/>The Fellowship of Friends' Roman-style amphitheater. ",
+                "gx_media_links": "https://lh3.googleusercontent.com/alcIQyZeiHsDewBmki3RihaVHcowHruq1hxkw07h4cEzIXF3GFUWr9isS1WfwfUCpVUs86piZ61fTDINdWp5fd1QXox5kzNNSAxxeGrl3uoTsHxxo8PU5iot0uLSYMw"
+            }
+        }
+    ]
+}

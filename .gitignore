@@ -4,4 +4,4 @@ temp
 .DS_Store
 npm-debug.log
 src/js/lib/*/**
-data
+
