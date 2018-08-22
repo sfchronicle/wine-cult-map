@@ -1,0 +1,34 @@
+<%= t.include("partials/_head.html") %>
+
+  
+
+
+  
+
+
+  <div class="map-embed">
+    <div class="map-desc">
+      <div class="headline">What remains of Renaissance</div>
+        <div class="deck">Although just 33 vineyards are left of the now-defunct Renaissance Winery, a dynamic—if tiny—wine community has risen from its ruins.</div>
+        <div class="instructions"><i class="fa fa-hand-o-right"></i> Click on the shaded areas and points on the map for more information about each landmark. </div>
+    </div>
+    <div id="map-container">
+    	<div id="map-leaflet"><div id="ca-reference"></div></div>
+    </div>
+    <div class="credits">
+      <div class="entry"><span class="credit-hed">Interactive Developer:</span><br><a href = "https://twitter.com/elbertwang1" target="_blank">Elbert Wang</a>  &bull; <a href="mailto:Elbert.Wang@sfchronicle.com"> Elbert.Wang@sfchronicle.com</a>
+      </div>
+    </div>
+  </div>
+ </div>
+   <script>
+  	var oregon_house = <%= JSON.stringify(json.oregonhouse) %>;
+    var us_data = <%= JSON.stringify(json.us_topo) %>;
+  	var california_cities = <%= JSON.stringify(csv.californiacities) %>;
+  </script>
+
+
+
+
+
+  <script src="app.js" async></script>  

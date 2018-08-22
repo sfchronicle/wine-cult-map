@@ -1,0 +1,123 @@
+.map-embed {
+
+	.map-desc {
+		font-family: "Assistant";
+		padding: 10px;
+		margin: 10px;
+		text-align: center;
+		.headline {
+			font-weight: 700;
+			font-size: 32px;
+			line-height: 1.1;
+	
+
+		}
+		.deck {
+			margin-top: 10px;
+			font-size: 16px;
+
+		}
+		.instructions {
+			font-size: 16px;
+		}
+	}
+	#map-container {
+	  
+
+	  #map-leaflet { 
+	  	
+			height: 100vh;
+		 	width: 100%;
+	  	pointer-events: all;
+
+
+	  	.my-label {
+	  		font-family: "Assistant";
+	  		font-style: "Italic";
+	  		background-color: none !important;
+	  		border-radius: none !important;
+	  		border: none !important;
+
+	  	}
+	  	.my-label::before {
+	  		color: white;
+
+	  	}
+
+
+
+		}
+
+		#ca-reference {
+
+	  		position: absolute;
+	  		left: 10px;
+	  		bottom: 10px;
+	  		z-index: 600;
+
+	  		@media (max-width: 900px) {
+	  			bottom: 20px;
+	  		}
+
+	  		@media (max-width: 730px) {
+	  			bottom: 30px;
+	  		}
+
+	  		@media (max-width: 375px) {
+	  			bottom: 40px;
+	  		}
+	  	}
+
+	  	.state {
+	  		fill: #d3d3d3;
+	  		stroke: @black;
+	  	}
+
+	  	.oregon {
+	  		stroke: @redlinks;
+	  		fill: none;
+	  	}
+
+	  	.city-g {
+	  		
+	  		.city-text {
+	  				font-family: "Assistant";
+						text-anchor: start;
+						font-size: 12px;
+						alignment-baseline: middle;
+
+				   	text-shadow:
+				     -1px -1px 0px #fff,  
+				      1px -1px 0px #fff,
+				      -1px 1px 0px #fff,
+				       1px 1px 0px #fff;
+
+				    -webkit-text-shadow:
+				      -1px -1px 0px #fff,  
+				      1px -1px 0px #fff,
+				      -1px 1px 0px #fff,
+				      1px 1px 0px #fff;
+
+			      -moz-text-shadow:
+				      -1px -1px 0px #fff,  
+				      1px -1px 0px #fff,
+				      -1px 1px 0px #fff,
+				      1px 1px 0px #fff;
+
+					}
+
+					.city-circle {
+
+						stroke: black;
+						stroke-width: 0.8px;
+					}
+	  	}
+	}
+	.credits {
+		font-family: "Assistant";
+		
+		a {
+			color: @redlinks;
+		}
+	}
+}
